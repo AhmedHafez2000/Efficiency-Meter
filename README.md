@@ -43,7 +43,7 @@ This measurement tool can be fabricated at home. A printable file is attached in
 ![](https://github.com/AhmedHafez2000/Efficiency-Meter/blob/main/Photos/IMG_4.jpg?raw=true)
 ![](https://github.com/AhmedHafez2000/Efficiency-Meter/blob/main/Photos/IMG_8.jpg?raw=true)
 ![](https://github.com/AhmedHafez2000/Efficiency-Meter/blob/main/Photos/IMG_9.jpg?raw=true)
-![](https://github.com/AhmedHafez2000/Efficiency-Meter/blob/main/Photos/IMG_11.jpg?raw=true)
+![](https://github.com/AhmedHafez2000/Efficiency-Meter/blob/main/Photos/IMG_12.jpg?raw=true)
 
 ---
 
