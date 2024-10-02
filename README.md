@@ -28,6 +28,7 @@ This measurement tool can be fabricated at home. A printable file is attached in
 
 #### NOTES:
 - All designs are made with ease of home fabrication in mind, which is why we use wider traces where possible.
+- Components were chosen based on availability, so you can modify the package size while keeping the same values.
 - There is a V3 of this project, and its schematic and PCB are also attached to this repo.
 - The improvement in V3 is the addition of an ASC712 Hall Effect-Based Linear Current Sensor, and fewer top-layer jumpers are needed, with the LGT8F328P IC soldered directly onto the PCB.
 - V2 is preferred for beginners and, in my opinion, is more reliable.
